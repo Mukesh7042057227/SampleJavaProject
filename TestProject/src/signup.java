@@ -5,6 +5,7 @@ public class signup {
 		// TODO Auto-generated method stub
 		
 		System.out.print("hi");
+		System.out.print("hi");
 
 	}
 
